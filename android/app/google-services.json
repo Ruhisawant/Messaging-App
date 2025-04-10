@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271581177340",
+    "project_id": "messaging-app-d2ae6",
+    "storage_bucket": "messaging-app-d2ae6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271581177340:android:12a01c15be308ceab7fe79",
+        "android_client_info": {
+          "package_name": "com.example.messaging_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTX4ng0FxqtiqZI0reomnTiwHR_lH5EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
